@@ -27,6 +27,10 @@ TrashNet++/
 └── README.md                 # This file
 ```
 
+## 📷 Folder Structure Image (Placeholder)
+
+![Dataset Structure](Folder%20Structure.jpg)
+
 ## 🏷️ Classes
 
 The dataset contains 7 waste categories:
