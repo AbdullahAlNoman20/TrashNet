@@ -10,6 +10,10 @@ A comprehensive waste classification dataset for object detection and classifica
 - **License**: CC BY 4.0
 - **Resolution**: 640x640 pixels (resized)
 
+# 📷 Sample Data
+
+![Sample Data](Sample.png)
+
 ## 🗂️ Dataset Structure
 
 ```
@@ -27,7 +31,7 @@ TrashNet++/
 └── README.md                 # This file
 ```
 
-## 📷 Folder Structure Image (Placeholder)
+## 📷 Folder Structure Image
 
 ![Dataset Structure](Folder%20Structure.jpg)
 
@@ -145,6 +149,9 @@ with open('data.yaml', 'r') as f:
 print("Classes:", data_config['names'])
 print("Number of classes:", data_config['nc'])
 ```
+# 📷 Performance
+
+![Performance](Result.png)
 
 ## 📈 Performance Metrics
 
